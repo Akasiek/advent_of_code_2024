@@ -60,7 +60,7 @@ pub fn solution_2(input: &String) -> i32 {
             }
         }
 
-        if (sim_score == 0) {
+        if sim_score == 0 {
             continue;
         }
         
